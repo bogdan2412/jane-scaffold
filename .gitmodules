@@ -157,3 +157,12 @@
 [submodule "protocol_version_header"]
 	path = protocol_version_header
 	url = https://github.com/janestreet/protocol_version_header.git
+[submodule "expect_test_helpers"]
+	path = expect_test_helpers
+	url = https://github.com/janestreet/expect_test_helpers.git
+[submodule "expect_test_helpers_kernel"]
+	path = expect_test_helpers_kernel
+	url = https://github.com/janestreet/expect_test_helpers_kernel.git
+[submodule "sexp_pretty"]
+	path = sexp_pretty
+	url = https://github.com/janestreet/sexp_pretty.git
