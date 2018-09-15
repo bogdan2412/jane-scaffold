@@ -166,3 +166,6 @@
 [submodule "sexp_pretty"]
 	path = sexp_pretty
 	url = https://github.com/janestreet/sexp_pretty.git
+[submodule "re2"]
+	path = re2
+	url = https://github.com/janestreet/re2.git
