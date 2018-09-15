@@ -136,3 +136,24 @@
 [submodule "configurator"]
 	path = configurator
 	url = https://github.com/janestreet/configurator.git
+[submodule "async"]
+	path = async
+	url = https://github.com/janestreet/async.git
+[submodule "async_extra"]
+	path = async_extra
+	url = https://github.com/janestreet/async_extra.git
+[submodule "async_kernel"]
+	path = async_kernel
+	url = https://github.com/janestreet/async_kernel.git
+[submodule "async_unix"]
+	path = async_unix
+	url = https://github.com/janestreet/async_unix.git
+[submodule "textutils"]
+	path = textutils
+	url = https://github.com/janestreet/textutils.git
+[submodule "async_rpc_kernel"]
+	path = async_rpc_kernel
+	url = https://github.com/janestreet/async_rpc_kernel.git
+[submodule "protocol_version_header"]
+	path = protocol_version_header
+	url = https://github.com/janestreet/protocol_version_header.git
