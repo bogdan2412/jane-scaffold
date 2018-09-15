@@ -1,0 +1,138 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/janestreet/core.git
+[submodule "ppx_jane"]
+	path = ppx_jane
+	url = https://github.com/janestreet/ppx_jane.git
+[submodule "ppx_expect"]
+	path = ppx_expect
+	url = https://github.com/janestreet/ppx_expect.git
+[submodule "ppx_assert"]
+	path = ppx_assert
+	url = https://github.com/janestreet/ppx_assert.git
+[submodule "ppx_inline_test"]
+	path = ppx_inline_test
+	url = https://github.com/janestreet/ppx_inline_test.git
+[submodule "base"]
+	path = base
+	url = https://github.com/janestreet/base.git
+[submodule "ppx_sexp_conv"]
+	path = ppx_sexp_conv
+	url = https://github.com/janestreet/ppx_sexp_conv.git
+[submodule "ppx_compare"]
+	path = ppx_compare
+	url = https://github.com/janestreet/ppx_compare.git
+[submodule "ppxlib"]
+	path = ppxlib
+	url = https://github.com/ocaml-ppx/ppxlib.git
+[submodule "core_kernel"]
+	path = core_kernel
+	url = https://github.com/janestreet/core_kernel.git
+[submodule "sexplib0"]
+	path = sexplib0
+	url = https://github.com/janestreet/sexplib0.git
+[submodule "ppx_custom_printf"]
+	path = ppx_custom_printf
+	url = https://github.com/janestreet/ppx_custom_printf.git
+[submodule "ppx_fields_conv"]
+	path = ppx_fields_conv
+	url = https://github.com/janestreet/ppx_fields_conv.git
+[submodule "base_quickcheck"]
+	path = base_quickcheck
+	url = https://github.com/janestreet/base_quickcheck.git
+[submodule "ppx_base"]
+	path = ppx_base
+	url = https://github.com/janestreet/ppx_base.git
+[submodule "ppx_here"]
+	path = ppx_here
+	url = https://github.com/janestreet/ppx_here.git
+[submodule "sexplib"]
+	path = sexplib
+	url = https://github.com/janestreet/sexplib.git
+[submodule "parsexp"]
+	path = parsexp
+	url = https://github.com/janestreet/parsexp.git
+[submodule "ppx_sexp_message"]
+	path = ppx_sexp_message
+	url = https://github.com/janestreet/ppx_sexp_message.git
+[submodule "ppx_enumerate"]
+	path = ppx_enumerate
+	url = https://github.com/janestreet/ppx_enumerate.git
+[submodule "ppx_variants_conv"]
+	path = ppx_variants_conv
+	url = https://github.com/janestreet/ppx_variants_conv.git
+[submodule "stdio"]
+	path = stdio
+	url = https://github.com/janestreet/stdio.git
+[submodule "ppx_let"]
+	path = ppx_let
+	url = https://github.com/janestreet/ppx_let.git
+[submodule "ppx_bench"]
+	path = ppx_bench
+	url = https://github.com/janestreet/ppx_bench.git
+[submodule "ppx_hash"]
+	path = ppx_hash
+	url = https://github.com/janestreet/ppx_hash.git
+[submodule "spawn"]
+	path = spawn
+	url = https://github.com/janestreet/spawn.git
+[submodule "ppx_bin_prot"]
+	path = ppx_bin_prot
+	url = https://github.com/janestreet/ppx_bin_prot.git
+[submodule "bin_prot"]
+	path = bin_prot
+	url = https://github.com/janestreet/bin_prot.git
+[submodule "ppx_fail"]
+	path = ppx_fail
+	url = https://github.com/janestreet/ppx_fail.git
+[submodule "ppx_js_style"]
+	path = ppx_js_style
+	url = https://github.com/janestreet/ppx_js_style.git
+[submodule "splittable_random"]
+	path = splittable_random
+	url = https://github.com/janestreet/splittable_random.git
+[submodule "fieldslib"]
+	path = fieldslib
+	url = https://github.com/janestreet/fieldslib.git
+[submodule "ppx_optional"]
+	path = ppx_optional
+	url = https://github.com/janestreet/ppx_optional.git
+[submodule "jane-street-headers"]
+	path = jane-street-headers
+	url = https://github.com/janestreet/jane-street-headers.git
+[submodule "ppx_optcomp"]
+	path = ppx_optcomp
+	url = https://github.com/janestreet/ppx_optcomp.git
+[submodule "typerep"]
+	path = typerep
+	url = https://github.com/janestreet/typerep.git
+[submodule "ppx_pipebang"]
+	path = ppx_pipebang
+	url = https://github.com/janestreet/ppx_pipebang.git
+[submodule "variantslib"]
+	path = variantslib
+	url = https://github.com/janestreet/variantslib.git
+[submodule "ppx_sexp_value"]
+	path = ppx_sexp_value
+	url = https://github.com/janestreet/ppx_sexp_value.git
+[submodule "ppx_typerep_conv"]
+	path = ppx_typerep_conv
+	url = https://github.com/janestreet/ppx_typerep_conv.git
+[submodule "ocaml-migrate-parsetree"]
+	path = ocaml-migrate-parsetree
+	url = https://github.com/let-def/ocaml-migrate-parsetree.git
+[submodule "result"]
+	path = result
+	url = https://github.com/janestreet/result.git
+[submodule "ocaml-compiler-libs"]
+	path = ocaml-compiler-libs
+	url = https://github.com/janestreet/ocaml-compiler-libs.git
+[submodule "ppx_derivers"]
+	path = ppx_derivers
+	url = https://github.com/ocaml-ppx/ppx_derivers.git
+[submodule "ocaml-re"]
+	path = ocaml-re
+	url = https://github.com/ocaml/ocaml-re.git
+[submodule "configurator"]
+	path = configurator
+	url = https://github.com/janestreet/configurator.git
