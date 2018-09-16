@@ -169,3 +169,6 @@
 [submodule "re2"]
 	path = re2
 	url = https://github.com/janestreet/re2.git
+[submodule "async_ssl"]
+	path = async_ssl
+	url = https://github.com/janestreet/async_ssl.git
