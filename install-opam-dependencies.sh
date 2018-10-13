@@ -1,3 +1,13 @@
 #!/bin/bash
 
-opam install -y ctypes ctypes-foreign dune num ocamlbuild octavius seq
+opam install -y \
+    cmdliner \
+    ctypes \
+    ctypes-foreign \
+    dune \
+    num \
+    ocamlbuild \
+    ocp-indent \
+    octavius \
+    result \
+    seq

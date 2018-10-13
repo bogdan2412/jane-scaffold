@@ -121,9 +121,6 @@
 [submodule "ocaml-migrate-parsetree"]
 	path = ocaml-migrate-parsetree
 	url = https://github.com/let-def/ocaml-migrate-parsetree.git
-[submodule "result"]
-	path = result
-	url = https://github.com/janestreet/result.git
 [submodule "ocaml-compiler-libs"]
 	path = ocaml-compiler-libs
 	url = https://github.com/janestreet/ocaml-compiler-libs.git
@@ -187,3 +184,7 @@
 [submodule "pcre-ocaml"]
 	path = pcre-ocaml
 	url = https://github.com/mmottl/pcre-ocaml.git
+[submodule "ocamlformat"]
+	path = ocamlformat
+	url = https://github.com/bogdan2412/ocamlformat.git
+	branch = jane
