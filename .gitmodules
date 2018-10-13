@@ -172,3 +172,18 @@
 [submodule "async_ssl"]
 	path = async_ssl
 	url = https://github.com/janestreet/async_ssl.git
+[submodule "patdiff"]
+	path = patdiff
+	url = https://github.com/janestreet/patdiff.git
+[submodule "core_extended"]
+	path = core_extended
+	url = https://github.com/janestreet/core_extended.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/janestreet/shell.git
+[submodule "patience_diff"]
+	path = patience_diff
+	url = https://github.com/janestreet/patience_diff.git
+[submodule "pcre-ocaml"]
+	path = pcre-ocaml
+	url = https://github.com/mmottl/pcre-ocaml.git
