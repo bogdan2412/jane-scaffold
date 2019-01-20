@@ -188,3 +188,15 @@
 	path = ocamlformat
 	url = https://github.com/bogdan2412/ocamlformat.git
 	branch = jane
+[submodule "base_bigstring"]
+	path = base_bigstring
+	url = https://github.com/janestreet/base_bigstring.git
+[submodule "config_h"]
+	path = config_h
+	url = https://github.com/janestreet/config_h.git
+[submodule "time_now"]
+	path = time_now
+	url = https://github.com/janestreet/time_now.git
+[submodule "ppx_module_timer"]
+	path = ppx_module_timer
+	url = https://github.com/janestreet/ppx_module_timer.git
