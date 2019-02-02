@@ -200,3 +200,6 @@
 [submodule "ppx_module_timer"]
 	path = ppx_module_timer
 	url = https://github.com/janestreet/ppx_module_timer.git
+[submodule "ppx_stable"]
+	path = ppx_stable
+	url = https://github.com/janestreet/ppx_stable.git
