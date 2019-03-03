@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/janestreet/core.git
+	url = https://github.com/bogdan2412/core.git
 [submodule "ppx_jane"]
 	path = ppx_jane
 	url = https://github.com/janestreet/ppx_jane.git
