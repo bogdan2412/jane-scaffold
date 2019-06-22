@@ -165,7 +165,7 @@
 	url = https://github.com/janestreet/sexp_pretty.git
 [submodule "re2"]
 	path = re2
-	url = https://github.com/janestreet/re2.git
+	url = https://github.com/bogdan2412/re2.git
 [submodule "async_ssl"]
 	path = async_ssl
 	url = https://github.com/janestreet/async_ssl.git
@@ -203,3 +203,6 @@
 [submodule "ppx_stable"]
 	path = ppx_stable
 	url = https://github.com/janestreet/ppx_stable.git
+[submodule "ppx_cold"]
+	path = ppx_cold
+	url = https://github.com/janestreet/ppx_cold.git
