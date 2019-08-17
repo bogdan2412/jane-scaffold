@@ -2,10 +2,10 @@
 
 opam install -y \
     cmdliner.1.0.4 \
-    ctypes.0.14.0 \
+    ctypes.0.15.1 \
     ctypes-foreign.0.4.0 \
-    dune.1.10.0 \
-    merlin.3.3.1 \
+    dune.1.11.1 \
+    merlin.3.3.2 \
     num.1.2 \
     ocamlbuild.0.14.0 \
     ocp-indent.1.7.0 \
