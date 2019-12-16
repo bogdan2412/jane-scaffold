@@ -2,13 +2,14 @@
 
 opam install -y \
     cmdliner.1.0.4 \
-    ctypes.0.15.1 \
+    "$(dirname "$0")/ocaml-ctypes/ctypes.opam" \
     ctypes-foreign.0.4.0 \
-    dune.1.11.4 \
-    merlin.3.3.2 \
-    num.1.2 \
+    dune.2.0.0 \
+    dune-configurator.2.0.0 \
+    merlin.3.3.3 \
+    num.1.3 \
     ocamlbuild.0.14.0 \
     ocp-indent.1.8.1 \
-    octavius.1.2.1 \
+    octavius.1.2.2 \
     result.1.4 \
     seq.base

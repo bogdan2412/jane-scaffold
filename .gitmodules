@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/bogdan2412/core.git
+	url = https://github.com/janestreet/core.git
 [submodule "ppx_jane"]
 	path = ppx_jane
 	url = https://github.com/janestreet/ppx_jane.git
@@ -130,9 +130,6 @@
 [submodule "ocaml-re"]
 	path = ocaml-re
 	url = https://github.com/ocaml/ocaml-re.git
-[submodule "configurator"]
-	path = configurator
-	url = https://github.com/janestreet/configurator.git
 [submodule "async"]
 	path = async
 	url = https://github.com/janestreet/async.git
@@ -206,3 +203,12 @@
 [submodule "ppx_cold"]
 	path = ppx_cold
 	url = https://github.com/janestreet/ppx_cold.git
+[submodule "ppx_fixed_literal"]
+	path = ppx_fixed_literal
+	url = https://github.com/janestreet/ppx_fixed_literal.git
+[submodule "timezone"]
+	path = timezone
+	url = https://github.com/janestreet/timezone.git
+[submodule "ocaml-ctypes"]
+	path = ocaml-ctypes
+	url = https://github.com/tiash/ocaml-ctypes
