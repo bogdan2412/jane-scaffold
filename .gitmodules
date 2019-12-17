@@ -184,7 +184,6 @@
 [submodule "ocamlformat"]
 	path = ocamlformat
 	url = https://github.com/bogdan2412/ocamlformat.git
-	branch = jane
 [submodule "base_bigstring"]
 	path = base_bigstring
 	url = https://github.com/janestreet/base_bigstring.git
@@ -212,3 +211,6 @@
 [submodule "ocaml-ctypes"]
 	path = ocaml-ctypes
 	url = https://github.com/tiash/ocaml-ctypes
+[submodule "odoc"]
+	path = odoc
+	url = https://github.com/ocaml/odoc.git

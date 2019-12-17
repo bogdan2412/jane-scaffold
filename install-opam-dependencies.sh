@@ -13,3 +13,7 @@ opam install -y \
     octavius.1.2.2 \
     result.1.4 \
     seq.base
+
+opam install -y \
+    fpath.0.7.2 \
+    uuseg.12.0.0
