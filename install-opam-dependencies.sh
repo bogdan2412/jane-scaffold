@@ -2,7 +2,7 @@
 
 opam install -y \
     cmdliner.1.0.4 \
-    "$(dirname "$0")/ocaml-ctypes/ctypes.opam" \
+    ctypes.0.16.0 \
     ctypes-foreign.0.4.0 \
     dune.2.1.3 \
     dune-configurator.2.1.3 \
