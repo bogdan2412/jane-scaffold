@@ -4,8 +4,8 @@ opam install -y \
     cmdliner.1.0.4 \
     ctypes.0.16.0 \
     ctypes-foreign.0.4.0 \
-    dune.2.1.3 \
-    dune-configurator.2.1.3 \
+    dune.2.2.0 \
+    dune-configurator.2.2.0 \
     merlin.3.3.3 \
     num.1.3 \
     ocamlbuild.0.14.0 \
