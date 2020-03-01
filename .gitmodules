@@ -211,3 +211,6 @@
 [submodule "odoc"]
 	path = odoc
 	url = https://github.com/ocaml/odoc.git
+[submodule "delimited_parsing"]
+	path = delimited_parsing
+	url = https://github.com/janestreet/delimited_parsing.git
