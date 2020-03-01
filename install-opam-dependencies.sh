@@ -1,8 +1,9 @@
 #!/bin/bash
 
 opam install -y \
+    bos.0.2.0 \
     cmdliner.1.0.4 \
-    ctypes.0.17.0 \
+    ctypes.0.17.1 \
     ctypes-foreign.0.4.0 \
     dune.2.3.1 \
     dune-configurator.2.3.1 \
