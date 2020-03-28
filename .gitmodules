@@ -214,3 +214,6 @@
 [submodule "delimited_parsing"]
 	path = delimited_parsing
 	url = https://github.com/janestreet/delimited_parsing.git
+[submodule "ppx_string"]
+	path = ppx_string
+	url = https://github.com/janestreet/ppx_string.git

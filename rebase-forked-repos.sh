@@ -2,8 +2,27 @@
 
 set -euo pipefail
 
-for repo in re2; do
-    cd ${repo}; 
-    git pull --rebase https://github.com/janestreet/${repo}.git;
+cd "$(dirname "$0")";
+
+for repo in $(grep github.com/bogdan2412/ .gitmodules | \
+              sed 's/\.git$//' | \
+              sed 's/.*github.com\/bogdan2412\///'); do
+    cd ${repo};
+    git checkout master;
+    git fetch;
+    git reset --hard origin/master;
+    upstream="janestreet"
+    if [[ "${repo}" == "ocamlformat" ]]; then
+        upstream="ocaml-ppx"
+    fi
+    git pull --rebase https://github.com/${upstream}/${repo}.git;
+    TAG=patch-$(git rev-parse FETCH_HEAD);
+    if git rev-parse "$TAG" >/dev/null 2>&1; then
+        echo "Already rebased";
+    else
+        git tag $TAG;
+        git push --force --set-upstream origin master;
+        git push origin $TAG;
+    fi;
     cd ${OLDPWD};
 done
