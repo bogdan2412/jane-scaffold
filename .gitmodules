@@ -82,9 +82,6 @@
 [submodule "bin_prot"]
 	path = bin_prot
 	url = https://github.com/janestreet/bin_prot.git
-[submodule "ppx_fail"]
-	path = ppx_fail
-	url = https://github.com/janestreet/ppx_fail.git
 [submodule "ppx_js_style"]
 	path = ppx_js_style
 	url = https://github.com/janestreet/ppx_js_style.git
@@ -133,9 +130,6 @@
 [submodule "async"]
 	path = async
 	url = https://github.com/janestreet/async.git
-[submodule "async_extra"]
-	path = async_extra
-	url = https://github.com/janestreet/async_extra.git
 [submodule "async_kernel"]
 	path = async_kernel
 	url = https://github.com/janestreet/async_kernel.git
@@ -172,9 +166,6 @@
 [submodule "core_extended"]
 	path = core_extended
 	url = https://github.com/janestreet/core_extended.git
-[submodule "shell"]
-	path = shell
-	url = https://github.com/janestreet/shell.git
 [submodule "patience_diff"]
 	path = patience_diff
 	url = https://github.com/janestreet/patience_diff.git
@@ -217,9 +208,6 @@
 [submodule "ppx_string"]
 	path = ppx_string
 	url = https://github.com/janestreet/ppx_string.git
-[submodule "num"]
-	path = num
-	url = https://github.com/ocaml/num.git
 [submodule "octavius"]
 	path = octavius
 	url = https://github.com/ocaml-doc/octavius.git
