@@ -223,3 +223,6 @@
 [submodule "octavius"]
 	path = octavius
 	url = https://github.com/ocaml-doc/octavius.git
+[submodule "menhir"]
+	path = menhir
+	url = https://gitlab.inria.fr/fpottier/menhir.git
