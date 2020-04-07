@@ -217,3 +217,9 @@
 [submodule "ppx_string"]
 	path = ppx_string
 	url = https://github.com/janestreet/ppx_string.git
+[submodule "num"]
+	path = num
+	url = https://github.com/ocaml/num.git
+[submodule "octavius"]
+	path = octavius
+	url = https://github.com/ocaml-doc/octavius.git
