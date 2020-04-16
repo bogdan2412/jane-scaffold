@@ -9,6 +9,7 @@ for repo in $(grep github.com/bogdan2412/ .gitmodules | \
               sed 's/.*github.com\/bogdan2412\///'); do
     cd ${repo};
     git checkout master;
+    git remote set-url origin git@github.com:bogdan2412/${repo}.git;
     git fetch;
     git reset --hard origin/master;
     upstream="janestreet"
