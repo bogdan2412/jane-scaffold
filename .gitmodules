@@ -214,3 +214,6 @@
 [submodule "menhir"]
 	path = menhir
 	url = https://gitlab.inria.fr/fpottier/menhir.git
+[submodule "ppx_disable_unused_warnings"]
+	path = ppx_disable_unused_warnings
+	url = https://github.com/janestreet/ppx_disable_unused_warnings.git
