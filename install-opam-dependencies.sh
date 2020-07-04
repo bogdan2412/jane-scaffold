@@ -5,9 +5,9 @@ opam install -y \
     cmdliner.1.0.4 \
     ctypes.0.17.1 \
     ctypes-foreign.0.4.0 \
-    dune.2.5.1 \
-    dune-configurator.2.5.1 \
-    merlin.3.3.4 \
+    dune.2.6.1 \
+    dune-configurator.2.6.1 \
+    merlin.3.3.6 \
     ocamlbuild.0.14.0 \
     ocp-indent.1.8.1 \
     result.1.5 \

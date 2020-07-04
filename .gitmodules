@@ -15,7 +15,7 @@
 	url = https://github.com/janestreet/ppx_inline_test.git
 [submodule "base"]
 	path = base
-	url = https://github.com/janestreet/base.git
+	url = https://github.com/bogdan2412/base.git
 [submodule "ppx_sexp_conv"]
 	path = ppx_sexp_conv
 	url = https://github.com/janestreet/ppx_sexp_conv.git
