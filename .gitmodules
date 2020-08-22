@@ -172,9 +172,6 @@
 [submodule "pcre-ocaml"]
 	path = pcre-ocaml
 	url = https://github.com/mmottl/pcre-ocaml.git
-[submodule "ocamlformat"]
-	path = ocamlformat
-	url = https://github.com/bogdan2412/ocamlformat.git
 [submodule "base_bigstring"]
 	path = base_bigstring
 	url = https://github.com/janestreet/base_bigstring.git
@@ -199,9 +196,6 @@
 [submodule "timezone"]
 	path = timezone
 	url = https://github.com/janestreet/timezone.git
-[submodule "odoc"]
-	path = odoc
-	url = https://github.com/ocaml/odoc.git
 [submodule "delimited_parsing"]
 	path = delimited_parsing
 	url = https://github.com/janestreet/delimited_parsing.git
@@ -211,9 +205,6 @@
 [submodule "octavius"]
 	path = octavius
 	url = https://github.com/ocaml-doc/octavius.git
-[submodule "menhir"]
-	path = menhir
-	url = https://gitlab.inria.fr/fpottier/menhir.git
 [submodule "ppx_disable_unused_warnings"]
 	path = ppx_disable_unused_warnings
 	url = https://github.com/janestreet/ppx_disable_unused_warnings.git
