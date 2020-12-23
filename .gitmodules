@@ -145,9 +145,6 @@
 [submodule "protocol_version_header"]
 	path = protocol_version_header
 	url = https://github.com/janestreet/protocol_version_header.git
-[submodule "expect_test_helpers"]
-	path = expect_test_helpers
-	url = https://github.com/janestreet/expect_test_helpers.git
 [submodule "expect_test_helpers_kernel"]
 	path = expect_test_helpers_kernel
 	url = https://github.com/janestreet/expect_test_helpers_kernel.git
@@ -159,7 +156,7 @@
 	url = https://github.com/bogdan2412/re2.git
 [submodule "async_ssl"]
 	path = async_ssl
-	url = https://github.com/janestreet/async_ssl.git
+	url = https://github.com/bogdan2412/async_ssl.git
 [submodule "patdiff"]
 	path = patdiff
 	url = https://github.com/janestreet/patdiff.git
@@ -208,3 +205,9 @@
 [submodule "ppx_disable_unused_warnings"]
 	path = ppx_disable_unused_warnings
 	url = https://github.com/janestreet/ppx_disable_unused_warnings.git
+[submodule "expect_test_helpers_core"]
+	path = expect_test_helpers_core
+	url = https://github.com/janestreet/expect_test_helpers_core.git
+[submodule "expect_test_helpers_async"]
+	path = expect_test_helpers_async
+	url = https://github.com/janestreet/expect_test_helpers_async.git
